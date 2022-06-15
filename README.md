@@ -8,5 +8,5 @@
 - One of the only working Gimkit scripts, continually developed
 
 ### Blooket
-- Heavely Discord message leaderboard [here](https://undercovergoose.github.io/blooket/leaderboard)
+- Heavely outdated Discord message leaderboard [here](https://undercovergoose.github.io/blooket/leaderboard)
 - documentation [here](https://undercovergoose.github.io/blooket-src)
