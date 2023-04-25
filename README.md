@@ -3,9 +3,10 @@
 
 ## Popular Repositories
 [![](https://github-readme-stats.vercel.app/api/pin/?username=undercovergoose&repo=classroom-cheats&theme=tokyonight&hide_border=true)](https://github.com/undercovergoose/classroom-cheats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=undercovergoose&repo=gimkit&theme=tokyonight&hide_border=true)](https://github.com/undercovergoose/gimkit)
 
-### Gimkit [Private]
-- One of the only working Gimkit scripts, continually developed
+### Gimkit Bookmarklet
+- https://github.com/UndercoverGoose/gimkit
 
 ### Blooket
 - Heavely outdated Discord message leaderboard [here](https://undercovergoose.github.io/blooket/leaderboard)
